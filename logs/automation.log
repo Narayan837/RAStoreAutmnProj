@@ -1,0 +1,92 @@
+10:00:03.844 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+10:00:03.853 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:00:03.856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.871 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+10:00:03.883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+10:00:03.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.885 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.887 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.891 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.891 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.892 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.892 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.893 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.893 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+10:00:03.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:00:03.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:00:03.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\AppData\Local\Temp\testng-eclipse-1405144218\testng-customsuite.xml
+
+10:00:03.960 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+10:00:04.436 [main] INFO  api.test.UserTests - ****** Creating User ********
+10:00:12.565 [main] INFO  api.test.UserTests - ****** User is Created ********
+10:00:12.576 [main] INFO  api.test.UserTests - ****** Reading User Info ********
+10:00:17.091 [main] INFO  api.test.UserTests - ****** User info is displayed ********
+10:00:17.110 [main] INFO  api.test.UserTests - ****** Updating User ********
+10:00:28.126 [main] INFO  api.test.UserTests - ****** User Updated ********
+10:00:32.493 [main] INFO  api.test.UserTests - ****** Deleting user ********
+10:00:36.854 [main] INFO  api.test.UserTests - ****** User Deleted ********
+10:00:37.037 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@694b1ddb: 101 ms
+10:00:37.160 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@79fcd194: 123 ms
+10:00:37.161 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@73d8c8d7: 1 ms
+10:00:37.173 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5e2718b3: 12 ms
+10:00:37.181 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7bfcc108: 7 ms
+10:00:37.190 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@352ce817: 9 ms
+10:00:37.190 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@716e6fa5: 0 ms
+11:11:32.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Narayan\Desktop\Nselenium\RAStoreAutmnProj\testng.xml
+
+11:11:34.200 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+11:11:40.642 [main] INFO  api.test.UserTests2 - ****** User is Created ********
+11:11:40.673 [main] INFO  api.test.UserTests2 - ****** Reading User Info ********
+11:11:41.923 [main] INFO  api.test.UserTests2 - ****** User info is displayed ********
+11:11:41.939 [main] INFO  api.test.UserTests2 - ****** Updating User ********
+11:11:43.130 [main] INFO  api.test.UserTests2 - ****** User Updated ********
+11:11:44.623 [main] INFO  api.test.UserTests2 - ****** Deleting user ********
+11:11:46.184 [main] INFO  api.test.UserTests2 - ****** User Deleted ********
+12:08:21.258 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+12:08:25.824 [main] INFO  api.test.UserTests2 - ****** User is Created ********
+12:08:25.847 [main] INFO  api.test.UserTests2 - ****** Reading User Info ********
+12:08:27.048 [main] INFO  api.test.UserTests2 - ****** User info is displayed ********
+12:08:27.056 [main] INFO  api.test.UserTests2 - ****** Updating User ********
+12:08:28.239 [main] INFO  api.test.UserTests2 - ****** User Updated ********
+12:08:29.433 [main] INFO  api.test.UserTests2 - ****** Deleting user ********
+12:08:30.793 [main] INFO  api.test.UserTests2 - ****** User Deleted ********
+12:19:58.120 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+12:20:02.674 [main] INFO  api.test.UserTests2 - ****** User is Created ********
+12:20:02.702 [main] INFO  api.test.UserTests2 - ****** Reading User Info ********
+12:20:03.990 [main] INFO  api.test.UserTests2 - ****** User info is displayed ********
+12:20:03.994 [main] INFO  api.test.UserTests2 - ****** Updating User ********
+12:20:05.191 [main] INFO  api.test.UserTests2 - ****** User Updated ********
+12:20:06.319 [main] INFO  api.test.UserTests2 - ****** Deleting user ********
+12:20:07.436 [main] INFO  api.test.UserTests2 - ****** User Deleted ********
+12:27:42.678 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+12:27:46.998 [main] INFO  api.test.UserTests2 - ****** User is Created ********
+12:27:47.027 [main] INFO  api.test.UserTests2 - ****** Reading User Info ********
+12:27:48.416 [main] INFO  api.test.UserTests2 - ****** User info is displayed ********
+12:27:48.425 [main] INFO  api.test.UserTests2 - ****** Updating User ********
+12:27:49.657 [main] INFO  api.test.UserTests2 - ****** User Updated ********
+12:27:50.876 [main] INFO  api.test.UserTests2 - ****** Deleting user ********
+12:27:52.059 [main] INFO  api.test.UserTests2 - ****** User Deleted ********
+11:46:13.983 [main] INFO  api.test.UserTests2 - ****** Creating User ********
+11:46:19.172 [main] INFO  api.test.UserTests2 - ****** User is Created ********
+11:46:19.194 [main] INFO  api.test.UserTests2 - ****** Reading User Info ********
+11:46:20.545 [main] INFO  api.test.UserTests2 - ****** User info is displayed ********
+11:46:20.552 [main] INFO  api.test.UserTests2 - ****** Updating User ********
+11:46:21.783 [main] INFO  api.test.UserTests2 - ****** User Updated ********
+11:46:23.324 [main] INFO  api.test.UserTests2 - ****** Deleting user ********
+11:46:24.550 [main] INFO  api.test.UserTests2 - ****** User Deleted ********
